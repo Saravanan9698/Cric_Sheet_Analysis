@@ -6,3 +6,4 @@ Json_Datasets/*.csv filter=lfs diff=lfs merge=lfs -text
 Raw_Json_Datasets/**/*.json filter=lfs diff=lfs merge=lfs -text
 PreProcessed_Innings_Datasets/*.csv filter=lfs diff=lfs merge=lfs -text
 PreProcessed_General_Datasets/*.csv filter=lfs diff=lfs merge=lfs -text
+*.pbit filter=lfs diff=lfs merge=lfs -text
